@@ -1,0 +1,23 @@
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\bin\Debug\multiMedisa.exe
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\bin\Debug\multiMedisa.pdb
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.Form1.resources
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.Properties.Resources.resources
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.csproj.GenerateResource.Cache
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.exe
+D:\work\سنه4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.pdb
+F:\sana4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.exe
+F:\sana4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.pdb
+F:\sana4\multi media\multiMedisa\multiMedisa\bin\Debug\multiMedisa.exe
+F:\sana4\multi media\multiMedisa\multiMedisa\bin\Debug\multiMedisa.pdb
+F:\sana4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.csprojResolveAssemblyReference.cache
+F:\sana4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.Form1.resources
+F:\sana4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.Properties.Resources.resources
+F:\sana4\multi media\multiMedisa\multiMedisa\obj\x86\Debug\multiMedisa.csproj.GenerateResource.Cache
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.exe
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.pdb
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\bin\Debug\multiMedisa.exe
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\bin\Debug\multiMedisa.pdb
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.csprojResolveAssemblyReference.cache
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.Form1.resources
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.Properties.Resources.resources
+D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.csproj.GenerateResource.Cache
