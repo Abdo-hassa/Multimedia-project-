@@ -21,3 +21,12 @@ D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa
 D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.Form1.resources
 D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.Properties.Resources.resources
 D:\cources\uni2021\yaser\Hamada\multimedia\multiMedisa\obj\x86\Debug\multiMedisa.csproj.GenerateResource.Cache
+E:\side projects\Multimedia-project-\bin\Debug\multiMedisa.exe
+E:\side projects\Multimedia-project-\bin\Debug\multiMedisa.pdb
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.csprojAssemblyReference.cache
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.Form1.resources
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.Properties.Resources.resources
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.csproj.GenerateResource.cache
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.csproj.CoreCompileInputs.cache
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.exe
+E:\side projects\Multimedia-project-\obj\x86\Debug\multiMedisa.pdb
